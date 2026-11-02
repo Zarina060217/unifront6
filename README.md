@@ -27,3 +27,18 @@
 * task 5
 * <img width="466" height="244" alt="image" src="https://github.com/user-attachments/assets/3bf47cd9-682d-4388-910f-5799f30292ef" />
 * add skill adds at the end, pepernd adds at top, remove skill deletes from list
+
+* task 6
+* <img width="492" height="208" alt="image" src="https://github.com/user-attachments/assets/e9ea068f-2e4d-42e9-b2ef-ac7aef9a823c" />
+* avalibale libk changes when you click th e button
+
+* task 7
+* <img width="467" height="248" alt="image" src="https://github.com/user-attachments/assets/a74a510d-446f-4e6c-adca-81e6ed084f2c" />
+* here it gives us text below in p , whet we wrote in input form. Real-time form interaction
+
+* task 8
+* <img width="716" height="281" alt="image" src="https://github.com/user-attachments/assets/e58e00fe-81bc-481d-ae70-8348b4f69cc2" />
+* here animations
+
+ * summary:
+ *  The project builds an interactive multi-task web application demonstrating core jQuery foundations, including selectors, CSS styling, visibility methods, and smooth fade and slide effects. It incorporates dynamic element manipulation via appending, prepending, and removing items, alongside attribute modification and real-time form interactions. The implementation concludes with animated skill bars using .animate() to provide programmatic visual feedback and responsive user controls.
