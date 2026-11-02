@@ -10,4 +10,10 @@
 * <img width="647" height="243" alt="image" src="https://github.com/user-attachments/assets/770b4939-45cf-4230-8447-172bcd9e5bcc" />
 
 * Task1
+* <img width="512" height="266" alt="image" src="https://github.com/user-attachments/assets/d56e94ea-627f-4c33-8adf-e88d6b159cb9" />
+* update chages name < the tag selector into blue
+* theme button which toggles switches from light theme to dark and vise verca.
+
+* Task2
 * 
+
