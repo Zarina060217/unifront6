@@ -19,5 +19,5 @@
 * hiding and showing,   toggle does the both
 
 * Task3
-
-
+* <img width="521" height="364" alt="image" src="https://github.com/user-attachments/assets/0cf4f798-6e60-402d-9741-e574aac9f278" />
+* fAde in картинка appears , fade out vapours, fade toggle double function
