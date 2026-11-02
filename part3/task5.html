@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add & Remove Elements</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        input {
+            padding: 6px;
+            margin-right: 5px;
+        }
+        button {
+            padding: 6px 12px;
+            cursor: pointer;
+            margin-right: 5px;
+        }
+        ul {
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Technical Skills</h2>
+
+    <input type="text" id="skill-input" placeholder="Enter a new skill">
+
+    <button id="add-btn">Add Skill</button>
+    <button id="prepend-btn">Prepend Skill</button>
+    <button id="remove-btn">Remove Skill</button>
+
+    <ul id="skills-list">
+        <li>Python</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>PHP</li>
+    </ul>
+
+    <script src="task5.js"></script>
+</body>
+</html>
