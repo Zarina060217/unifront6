@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic Animation</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .skill-container {
+            margin-bottom: 15px;
+            width: 300px;
+        }
+        .skill-bar-bg {
+            background-color: #eee;
+            border-radius: 4px;
+            height: 20px;
+            width: 100%;
+            overflow: hidden;
+            margin-top: 5px;
+        }
+        .skill-bar {
+            background-color: #4CAF50;
+            height: 100%;
+            width: 0px; 
+        }
+        button {
+            padding: 8px 15px;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Skill Bars Animation</h2>
+
+    <button id="animate-btn">Animate My Skills</button>
+
+    <div class="skill-container">
+        <span>Python (90%)</span>
+        <div class="skill-bar-bg">
+            <div class="skill-bar" data-width="90%"></div>
+        </div>
+    </div>
+
+    <div class="skill-container">
+        <span>JavaScript (75%)</span>
+        <div class="skill-bar-bg">
+            <div class="skill-bar" data-width="75%"></div>
+        </div>
+    </div>
+
+    <div class="skill-container">
+        <span>C++ (80%)</span>
+        <div class="skill-bar-bg">
+            <div class="skill-bar" data-width="80%"></div>
+        </div>
+    </div>
+
+    <script src="task8.js"></script>
+</body>
+</html>
