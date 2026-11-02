@@ -21,3 +21,6 @@
 * Task3
 * <img width="521" height="364" alt="image" src="https://github.com/user-attachments/assets/0cf4f798-6e60-402d-9741-e574aac9f278" />
 * fAde in картинка appears , fade out vapours, fade toggle double function
+* task 4
+* <img width="721" height="401" alt="image" src="https://github.com/user-attachments/assets/3e9d8726-9845-4349-9c23-bb12559c7411" />
+* sliding
