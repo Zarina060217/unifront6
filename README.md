@@ -15,5 +15,9 @@
 * theme button which toggles switches from light theme to dark and vise verca.
 
 * Task2
-* 
+* <img width="430" height="257" alt="image" src="https://github.com/user-attachments/assets/4a726cf4-5811-402e-8545-39d611f98f89" />
+* hiding and showing,   toggle does the both
+
+* Task3
+
 
