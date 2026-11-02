@@ -24,3 +24,6 @@
 * task 4
 * <img width="721" height="401" alt="image" src="https://github.com/user-attachments/assets/3e9d8726-9845-4349-9c23-bb12559c7411" />
 * sliding
+* task 5
+* <img width="466" height="244" alt="image" src="https://github.com/user-attachments/assets/3bf47cd9-682d-4388-910f-5799f30292ef" />
+* add skill adds at the end, pepernd adds at top, remove skill deletes from list
